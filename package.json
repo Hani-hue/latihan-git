@@ -1,0 +1,17 @@
+{
+  "name": "mvc-test",
+  "version": "1.0.0",
+  "description": "Struktur MVC sederhana buat latihan git branching",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
